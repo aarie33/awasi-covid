@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin2">30dp</dimen>
+    <dimen name="activity_horizontal_margin3">50dp</dimen>
+    <dimen name="activity_horizontal_margin4">70dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="m5">5dp</dimen>
+    <dimen name="half_margin">8dp</dimen>
+    <dimen name="fbig">45sp</dimen>
+    <dimen name="fsuperbig">60dp</dimen>
+    <dimen name="f30">30sp</dimen>
+    <dimen name="fheader">25sp</dimen>
+    <dimen name="ftext_button">20sp</dimen>
+    <dimen name="fnormal">17sp</dimen>
+    <dimen name="fnormal2">15sp</dimen>
+    <dimen name="fnormal3">12sp</dimen>
+    <dimen name="txt_kalkulator">10sp</dimen>
+    <dimen name="txt_kalkulator2">8sp</dimen>
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Awasi Covid-19</string>
+    <string name="persebaran_covid">Data persebaran Covid-19</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="total_kasus">Total kasus</string>
+    <string name="meninggal">Meninggal</string>
+    <string name="sembuh">Sembuh</string>
+    <string name="suspect">Suspect</string>
+    <string name="update">Update</string>
+</resources>
